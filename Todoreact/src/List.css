@@ -1,0 +1,15 @@
+.cross{
+    margin-left:4%;
+    display:none;
+}
+
+li:hover .cross{
+
+    display: inline-block;
+}
+
+.list{
+    margin-bottom: 2%;
+  text-decoration: none;
+  font-size: 1.5em;
+}
